@@ -4,4 +4,5 @@ It uses a mechanism based on *cloning* of an existing functionality to create a 
 
 # wiki 
 
-http://www.adrianodipasquale.it/firegen/wiki/
+http://www.adrianodipasquale.it/firegen/wiki/ 
+(in italian)
